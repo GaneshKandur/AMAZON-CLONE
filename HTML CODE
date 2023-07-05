@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet"  href="style.css">
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="navlogo border">
+                <div class="amzlogo"></div>   
+            </div>
+                <div class="navaddress border">
+                    <p class="st" >Deliver to</p>
+                    <div class="icon">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <p class="en">India</p>
+                    </div>
+                </div>
+                <div class="search ">
+                    <select class="opti">
+                        <option value="">ALL</option>
+                    </select>
+                    <input type="text" placeholder="Search Amazon" class="search-input">
+                    <div class="ser-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                    
+                </div>
+            <div class="sign border">
+                <p><span>Hello,Sign in</span></p>
+                <p class="nav-second">Account & lists</p>
+            </div>  
+            <div class="sign border">
+                <p><span>returns</span></p>
+                <p class="nav-second"> &Orders</p>
+            </div>  
+            <div class="cart border">
+                <i class="fa-solid fa-cart-shopping"></i>
+                <p>Cart</p>
+            </div>
+            
+        </div>
+        <div class="secondbar">
+            <div class="all">
+                <i class="fa-solid fa-bars"></i>
+                <p>ALL</p>
+            </div>
+    
+            <div class="list">
+                <a href="Today's deals">Today's deals</a>
+                <a href="Registry">Registry</a>
+                <a href="Gifts">Gifts</a>
+                <a href="Customer service">Customer service</a>
+                <a href="Partner us">Partner us</a>
+            </div>
+            <div class="link"><a href="Shop deals at Electronics">Shop deals at Electronics</a></div>
+        </div>
+    </header>
+    <div class="image">
+        <div class="imagetxt">
+            <p>You are on amazon.com. You can also shop on Amazon India for milions of products with fast local delivery. <a> Click here to go to amazon.in</a></p>
+        </div>
+    </div>
+    <section class="boxes">
+        <div class="box1 box"> 
+            <div class="desing">
+            <h2>Day Care</h2>
+            <div class="imag" style="background-image: url('box1_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div>
+        </div>
+        <div class="box2 box"> <div class="desing">
+            <h2>Hair Essentials</h2>
+            <div class="imag" style="background-image: url('box2_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+        <div class="box3 box"> <div class="desing">
+            <h2>Wadrobe and beauty</h2>
+            <div class="imag" style="background-image: url('box3_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+        <div class="box4 box"> <div class="desing">
+            <h2>Electrial Appliances</h2>
+            <div class="imag" style="background-image: url('box4_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+        <div class="box5 box"> 
+            <div class="desing">
+            <h2>Beauty products</h2>
+            <div class="imag" style="background-image: url('box5_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div>
+        </div>
+        <div class="box6 box"> <div class="desing">
+            <h2>Pet Essentials</h2>
+            <div class="imag" style="background-image: url('box6_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+        <div class="box7 box"> <div class="desing">
+            <h2>Toys and more..</h2>
+            <div class="imag" style="background-image: url('box7_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+        <div class="box8 box"> <div class="desing">
+            <h2>Fashion products</h2>
+            <div class="imag" style="background-image: url('box8_image.jpg');"></div>
+            <p><a>see more</a></p>
+        </div></div>
+    </section>
+    <footer>
+        <div class="footpanel1">
+            <p>Back to top </p>
+        </div>
+        <div class="footpanel2">
+            <ul>
+                <h3 >Get to Know Us</h3>
+                <a >About Us</a>
+                <a >Careers</a>
+                <a >Amazon Science</a>
+                <a >Amazon Science</a>
+                </ul>
+                <ul>
+                    <h3 >Connect with Us
+                        
+                        
+                        </h3>
+                    <a >Facebook</a>
+                    <a >Twitter</a>
+                    <a >Instagram</a>
+                    
+                    </ul>
+                    <ul>
+                        <h3 >Make Money with Us
+                            
+                            
+                            
+                            
+                           
+                            
+                            
+                            </h3>
+                        <a >Sell on Amazon</a>
+                        <a >Sell under Amazon Accelerator</a>
+                        <a >Fulfilment by Amazon</a>
+                        <a >Become an Affiliate</a>
+                        <a>Amazon Global Selling</a>
+                        <a >Protect and Build Your Brand</a>
+                        <a >Amazon Pay on Merchants</a>
+                        </ul>
+                        <ul>
+                            <h3 >Let Us Help You
+                                
+                                
+                                
+                                
+                                
+                                </h3>
+                            <a >COVID-19 and Amazon</a>
+                            <a >Your Account</a>
+                            <a >100% Purchase Protection</a>
+                            <a >Amazon App Download</a>
+                            <a >Returns Centre</a>
+                            <a>Help</a>
+                            </ul>
+        </div>
+        <div class="footpanel3">
+            <div class="logo"></div>
+        </div>
+        <div class="footpanel4">
+            <div class="pages">
+                <a>Conditions of Use</a>
+                <a >Privacy Notice</a>
+                <a >Interest-Based Ads</a>
+            </div>
+            <p>© 1996-2023, Amazon.com, Inc. or its affiliates</p>
+        </div>
+    </footer>
+</body>
+</html>
